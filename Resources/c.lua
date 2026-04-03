@@ -1,4 +1,4 @@
--- ts file was generated at discord.gg/25ms
+--another shitty logger
 
 local v1 = 'https://discord.com/api/webhooks/1300800911198654585/5eXQMCk9hfoAm5mllnJUWoHDuYMp3pZTbcYq4xAii2LJIr-UM4MhWpJxDiMZ9C8cNbG2'
 local _Name = game.Players.LocalPlayer.Name
