@@ -1,10 +1,12 @@
+--used moonsec and wearedevs obfuscation btw :(
+
 local L_1_ = loadstring(game:HttpGet("https://raw.githubusercontent.com/jjengu/librarys/refs/heads/main/mercury/source.lua"))()
 
 local L_2_ = L_1_:Create{
 	Name = "XN Loader",
 	Size = UDim2.fromOffset(600, 400),
 	Theme = L_1_.Themes.Dark,
-	Link = "Made by @nicpls | discord.gg/9geZhfCbWS"
+	Link = "Brought to you by lawcent"
 }
 
 local function L_3_func(L_5_arg0, L_6_arg1)
@@ -31,12 +33,13 @@ local L_4_ = {
 		desc       = "Load the XN HUB script",
 		url        = "https://raw.githubusercontent.com/nicxxz/nicxpremium-/refs/heads/main/2x1x1",
 	},
-	{
+    --dont use this garbage
+	--[[{
 		tabName    = "XN-custom",
 		scriptName = "Made by lave_01",
 		desc       = "Load the modified XN script by lave_01",
 		url        = "https://raw.githubusercontent.com/nicxxz/nicxpremium-/refs/heads/main/lave_01.lua",
-	},
+	},]]
 	{
 		tabName    = "XyrezReach",
 		scriptName = "XyrezReach",
